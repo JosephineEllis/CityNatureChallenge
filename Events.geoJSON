@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Organisation": "Woodland Trust",
+        "Location": "Low Burnhall",
+        "Date": "Saturday 25th April",
+        "Time": "10:00",
+        "Type": "Walk/bioblitz"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.5886732012455411,
+          54.753310834692144
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organisation": "North East Fungus Study Group",
+        "Location": "Rowlands Gill",
+        "Date": "Sunday 26th April",
+        "Time": "10.30",
+        "Type": "Fungal Foray"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.7874824687027342,
+          54.92033877918658
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
